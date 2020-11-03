@@ -1,22 +1,102 @@
-{
-  "label": "CPL Spine Tingling Staff Picks",
-  "description": "A list of the CPL Staff's favorite scary books.",
-  "isbns": [
-    "9780062259653",
-    "9780593156858",
-    "9781501198892",
-    "9780553418606",
-    "9780425188804",
-    "9780345806796",
-    "9780307743657",
-    "9780763681128",
-    "9781532143878",
-    "9781631492631",
-    "9780198827290",
-    "9780062363237",
-    "9780804169967",
-    "9780060779634",
-    "9780307394996",
+    {
+      "label": "CPL Spine Tingling Staff Picks",
+      "description": "A list of the CPL Staff's favorite scary books.",
+      "isbns": [
+    {
+      "label":"Bird box",
+      "isbns": [
+    "9780062259653"
+    ]
+    },
+    {
+      "label":"Malorie: a bird box novel",
+      "isbns": [
+    "9780593156858"
+    ]
+    },
+    {
+      "label":"Bag of bones: a novel",
+      "isbns": [
+    "9781501198892"
+    ]
+    },
+    {
+      "label":"The library at mount char",
+      "isbns": [
+    "9780553418606"
+    ]
+    },
+    {
+      "label":"Watchers",
+      "isbns": [
+    "9780425188804"
+    ]
+    },
+    {
+      "label":"Salem's lot",
+      "isbns": [
+    "9780345806796"
+    ]
+    },
+    {
+      "label":"The shining",
+      "isbns": [
+    "9780307743657"
+    ]
+    },
+    {
+      "label":"Poe : stories and poems: a graphic novel adaptation",
+      "isbns": [
+    "9780763681128"
+    ]
+    },
+    {
+      "label":"Stranger Things: the other side #1",
+      "isbns": [
+    "9781532143878"
+    ]
+    },
+    {
+      "label":"The new annotated H.P. Lovecraft : beyond Arkham",
+      "isbns": [
+    "9781631492631"
+    ]
+    },
+    {
+      "label":"The Pit and the pendulum and other tales",
+      "isbns": [
+    "9780198827290"
+    ]
+    },
+    {
+      "label":"A head full of ghosts : a novel",
+      "isbns": [
+    "9780062363237"
+    ]
+    },
+    {
+      "label":"The winter people: a novel"
+      "isbns": [
+    "9780804169967"
+    ]
+    },
+    {
+      "label":"Help for the haunted"
+      "isbns": [
+    "9780060779634"
+    ]
+    },
+    {
+      "label":"The night strangers: a novel"
+      "isbns": [
+    "9780307394996"
+    ]
+    },
+    {
+      "label":"In a dark, dark wood"
+      "isbns": [
     "9781501112317"
-  ]
-}
+    ]
+    }
+    ]
+    }
